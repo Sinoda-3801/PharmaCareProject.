@@ -57,10 +57,4 @@ validasi otomatis, checkout dengan pilihan pembayaran, riwayat transaksi beserta
 - Pembayaran hanya simulasi (dianggap sukses setelah metode dipilih).
 - Data disimpan di memori (ArrayList/HashMap), hilang saat program ditutup.
 
-## Skenario uji (lihat `docs/input_demo.txt`)
-1. Pelanggan menambah Obat Keras tanpa resep -> ditolak.
-2. Menambah CTM 3 unit (batas 2) -> ditolak.
-3. Unggah resep, tambah Amoxicillin, checkout QRIS -> status Menunggu Validasi Resep.
-4. Apoteker validasi resep -> Diproses -> Selesai.
-5. Apoteker melihat stok menipis dan laporan penjualan.
 
