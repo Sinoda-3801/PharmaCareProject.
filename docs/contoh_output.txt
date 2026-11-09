@@ -1,0 +1,284 @@
+==================================================================
+        PHARMACARE - SISTEM APOTEK DIGITAL
+==================================================================
+ 1. Login
+ 2. Daftar sebagai pelanggan
+ 0. Keluar
+Pilih: Username: Password:   Selamat datang, Budi Santoso (Pelanggan)
+==================================================================
+ MENU PELANGGAN - Budi Santoso
+==================================================================
+ 1. Lihat daftar obat
+ 2. Unggah resep dokter
+ 3. Tambah obat ke keranjang
+ 4. Lihat keranjang
+ 5. Kosongkan keranjang
+ 6. Checkout & bayar
+ 7. Riwayat transaksi
+ 0. Logout
+Pilih: 
+--- DAFTAR OBAT ---
+OB001  | Paracetamol 500mg    | Obat Bebas         |     Rp 5.000 | stok  50 | Tanpa syarat khusus
+         Deskripsi: Pereda demam & nyeri
+OB002  | Vitamin C 500mg      | Obat Bebas         |    Rp 12.000 | stok   8 | Tanpa syarat khusus
+         Deskripsi: Suplemen daya tahan tubuh
+OB003  | Antasida Doen        | Obat Bebas Terbatas |     Rp 8.000 | stok  30 | Maks 3 per transaksi. PERINGATAN: Jangan melebihi dosis, hentikan bila gejala berlanjut
+         Deskripsi: Meredakan sakit maag
+OB004  | CTM 4mg              | Obat Bebas Terbatas |     Rp 3.000 | stok  40 | Maks 2 per transaksi. PERINGATAN: Dapat menyebabkan kantuk
+         Deskripsi: Antihistamin alergi
+OB005  | Amoxicillin 500mg    | Obat Keras         |    Rp 25.000 | stok  20 | WAJIB resep dokter
+         Deskripsi: Antibiotik
+OB006  | Metformin 500mg      | Obat Keras         |    Rp 18.000 | stok   5 | WAJIB resep dokter
+         Deskripsi: Obat diabetes tipe 2
+==================================================================
+ MENU PELANGGAN - Budi Santoso
+==================================================================
+ 1. Lihat daftar obat
+ 2. Unggah resep dokter
+ 3. Tambah obat ke keranjang
+ 4. Lihat keranjang
+ 5. Kosongkan keranjang
+ 6. Checkout & bayar
+ 7. Riwayat transaksi
+ 0. Logout
+Pilih: ID obat: Jumlah:   DITOLAK: Obat Keras wajib melampirkan resep dokter. Unggah resep terlebih dahulu.
+==================================================================
+ MENU PELANGGAN - Budi Santoso
+==================================================================
+ 1. Lihat daftar obat
+ 2. Unggah resep dokter
+ 3. Tambah obat ke keranjang
+ 4. Lihat keranjang
+ 5. Kosongkan keranjang
+ 6. Checkout & bayar
+ 7. Riwayat transaksi
+ 0. Logout
+Pilih: ID obat: Jumlah:   DITOLAK: Melebihi batas pembelian (maks 2, di keranjang sudah 0).
+==================================================================
+ MENU PELANGGAN - Budi Santoso
+==================================================================
+ 1. Lihat daftar obat
+ 2. Unggah resep dokter
+ 3. Tambah obat ke keranjang
+ 4. Lihat keranjang
+ 5. Kosongkan keranjang
+ 6. Checkout & bayar
+ 7. Riwayat transaksi
+ 0. Logout
+Pilih: ID obat: Jumlah:   2 x CTM 4mg ditambahkan ke keranjang.
+  PERINGATAN: Dapat menyebabkan kantuk
+==================================================================
+ MENU PELANGGAN - Budi Santoso
+==================================================================
+ 1. Lihat daftar obat
+ 2. Unggah resep dokter
+ 3. Tambah obat ke keranjang
+ 4. Lihat keranjang
+ 5. Kosongkan keranjang
+ 6. Checkout & bayar
+ 7. Riwayat transaksi
+ 0. Logout
+Pilih: Nama file resep (mis. resep_budi.jpg):   Resep 'resep_budi.jpg' berhasil diunggah. Akan divalidasi apoteker saat checkout.
+==================================================================
+ MENU PELANGGAN - Budi Santoso
+==================================================================
+ 1. Lihat daftar obat
+ 2. Unggah resep dokter
+ 3. Tambah obat ke keranjang
+ 4. Lihat keranjang
+ 5. Kosongkan keranjang
+ 6. Checkout & bayar
+ 7. Riwayat transaksi
+ 0. Logout
+Pilih: ID obat: Jumlah:   2 x Amoxicillin 500mg ditambahkan ke keranjang.
+==================================================================
+ MENU PELANGGAN - Budi Santoso
+==================================================================
+ 1. Lihat daftar obat
+ 2. Unggah resep dokter
+ 3. Tambah obat ke keranjang
+ 4. Lihat keranjang
+ 5. Kosongkan keranjang
+ 6. Checkout & bayar
+ 7. Riwayat transaksi
+ 0. Logout
+Pilih: ID obat: Jumlah:   3 x Paracetamol 500mg ditambahkan ke keranjang.
+==================================================================
+ MENU PELANGGAN - Budi Santoso
+==================================================================
+ 1. Lihat daftar obat
+ 2. Unggah resep dokter
+ 3. Tambah obat ke keranjang
+ 4. Lihat keranjang
+ 5. Kosongkan keranjang
+ 6. Checkout & bayar
+ 7. Riwayat transaksi
+ 0. Logout
+Pilih: 
+--- KERANJANG ---
+ CTM 4mg              x2       Rp 6.000
+ Amoxicillin 500mg    x2      Rp 50.000
+ Paracetamol 500mg    x3      Rp 15.000
+ Subtotal: Rp 71.000
+ Resep terunggah: resep_budi.jpg
+==================================================================
+ MENU PELANGGAN - Budi Santoso
+==================================================================
+ 1. Lihat daftar obat
+ 2. Unggah resep dokter
+ 3. Tambah obat ke keranjang
+ 4. Lihat keranjang
+ 5. Kosongkan keranjang
+ 6. Checkout & bayar
+ 7. Riwayat transaksi
+ 0. Logout
+Pilih: 
+--- KERANJANG ---
+ CTM 4mg              x2       Rp 6.000
+ Amoxicillin 500mg    x2      Rp 50.000
+ Paracetamol 500mg    x3      Rp 15.000
+ Subtotal: Rp 71.000
+ Resep terunggah: resep_budi.jpg
+
+Pilih metode pembayaran:
+ 1. Tunai  -> total Rp 71.000
+ 2. Kartu Debit/Kredit  -> total Rp 72.775
+ 3. QRIS  -> total Rp 71.497
+Pilih (0 = batal): 
+  Pembayaran QRIS sebesar Rp 71.497 terkonfirmasi. [BERHASIL]
+
+--- STRUK ---
+  ID        : TRX001  (2026-11-08)
+  Pelanggan : Budi Santoso
+   - CTM 4mg              x2       Rp 6.000
+   - Amoxicillin 500mg    x2      Rp 50.000
+   - Paracetamol 500mg    x3      Rp 15.000
+  Subtotal  : Rp 71.000
+  Fee (QRIS): Rp 497
+  TOTAL     : Rp 71.497
+  Resep     : resep_budi.jpg
+  Status    : Menunggu Validasi Resep
+  Catatan: pesanan menunggu validasi resep oleh apoteker.
+==================================================================
+ MENU PELANGGAN - Budi Santoso
+==================================================================
+ 1. Lihat daftar obat
+ 2. Unggah resep dokter
+ 3. Tambah obat ke keranjang
+ 4. Lihat keranjang
+ 5. Kosongkan keranjang
+ 6. Checkout & bayar
+ 7. Riwayat transaksi
+ 0. Logout
+Pilih: 
+--- RIWAYAT TRANSAKSI ---
+  ID        : TRX001  (2026-11-08)
+  Pelanggan : Budi Santoso
+   - CTM 4mg              x2       Rp 6.000
+   - Amoxicillin 500mg    x2      Rp 50.000
+   - Paracetamol 500mg    x3      Rp 15.000
+  Subtotal  : Rp 71.000
+  Fee (QRIS): Rp 497
+  TOTAL     : Rp 71.497
+  Resep     : resep_budi.jpg
+  Status    : Menunggu Validasi Resep
+  ------------------------------
+==================================================================
+ MENU PELANGGAN - Budi Santoso
+==================================================================
+ 1. Lihat daftar obat
+ 2. Unggah resep dokter
+ 3. Tambah obat ke keranjang
+ 4. Lihat keranjang
+ 5. Kosongkan keranjang
+ 6. Checkout & bayar
+ 7. Riwayat transaksi
+ 0. Logout
+Pilih: ==================================================================
+        PHARMACARE - SISTEM APOTEK DIGITAL
+==================================================================
+ 1. Login
+ 2. Daftar sebagai pelanggan
+ 0. Keluar
+Pilih: Username: Password:   Selamat datang, Apt. Sari (Apoteker)
+==================================================================
+ MENU APOTEKER - Apt. Sari
+==================================================================
+ 1. Kelola data obat
+ 2. Stok menipis & restock
+ 3. Validasi resep dokter
+ 4. Selesaikan pesanan (Diproses -> Selesai)
+ 5. Laporan penjualan
+ 0. Logout
+Pilih: 
+--- RESEP MENUNGGU VALIDASI ---
+  ID        : TRX001  (2026-11-08)
+  Pelanggan : Budi Santoso
+   - CTM 4mg              x2       Rp 6.000
+   - Amoxicillin 500mg    x2      Rp 50.000
+   - Paracetamol 500mg    x3      Rp 15.000
+  Subtotal  : Rp 71.000
+  Fee (QRIS): Rp 497
+  TOTAL     : Rp 71.497
+  Resep     : resep_budi.jpg
+  Status    : Menunggu Validasi Resep
+  ------------------------------
+ID transaksi yang divalidasi (kosong = batal): Resep sah? (y/n):   Resep disetujui. Status -> Diproses.
+==================================================================
+ MENU APOTEKER - Apt. Sari
+==================================================================
+ 1. Kelola data obat
+ 2. Stok menipis & restock
+ 3. Validasi resep dokter
+ 4. Selesaikan pesanan (Diproses -> Selesai)
+ 5. Laporan penjualan
+ 0. Logout
+Pilih:  TRX001 | Budi Santoso | Rp 71.497
+ID transaksi yang diselesaikan (kosong = batal):   Pesanan TRX001 selesai.
+==================================================================
+ MENU APOTEKER - Apt. Sari
+==================================================================
+ 1. Kelola data obat
+ 2. Stok menipis & restock
+ 3. Validasi resep dokter
+ 4. Selesaikan pesanan (Diproses -> Selesai)
+ 5. Laporan penjualan
+ 0. Logout
+Pilih: 
+--- STOK MENIPIS (< 10) ---
+ OB002  Vitamin C 500mg      sisa 8
+ OB006  Metformin 500mg      sisa 5
+ID obat untuk restock (kosong = lewati): ==================================================================
+ MENU APOTEKER - Apt. Sari
+==================================================================
+ 1. Kelola data obat
+ 2. Stok menipis & restock
+ 3. Validasi resep dokter
+ 4. Selesaikan pesanan (Diproses -> Selesai)
+ 5. Laporan penjualan
+ 0. Logout
+Pilih: 
+Laporan: ketik tanggal (yyyy-MM-dd) untuk harian atau bulan (yyyy-MM) untuk bulanan.
+Periode (kosong = bulan ini): 
+--- LAPORAN PENJUALAN 2026-11 ---
+ Total transaksi : 1
+ Total pendapatan: Rp 71.497
+ Obat terlaris   : Paracetamol 500mg (3 unit)
+ Rincian metode pembayaran:
+   - QRIS                 1 transaksi, Rp 71.497
+==================================================================
+ MENU APOTEKER - Apt. Sari
+==================================================================
+ 1. Kelola data obat
+ 2. Stok menipis & restock
+ 3. Validasi resep dokter
+ 4. Selesaikan pesanan (Diproses -> Selesai)
+ 5. Laporan penjualan
+ 0. Logout
+Pilih: ==================================================================
+        PHARMACARE - SISTEM APOTEK DIGITAL
+==================================================================
+ 1. Login
+ 2. Daftar sebagai pelanggan
+ 0. Keluar
+Pilih: Terima kasih telah menggunakan PharmaCare.
